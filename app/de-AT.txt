@@ -1,0 +1,90 @@
+lang.name=German
+
+# Generic
+generic.delete=Löschen
+generic.save=Speichern
+generic.text_size=Text Größe
+generic.rounding=Rundheit
+generic.opacity=Deckkraft
+generic.border=Rand
+generic.scale=Größe
+generic.precision=Prezision
+generic.text=Text
+
+# Menu
+menu.profiles=Profil
+menu.modules=Module
+menu.options=Optionen
+menu.editHUD=Editiere HUD
+menu.back=Zurück
+menu.add_profile=Füge Profil hinzu
+menu.search_modules=Suche Module
+
+# Modules
+module.autosprint=Auto Sprint
+#module.autosprint.desc=Sprinte automatisch wenn man geht.
+
+module.cpsdisplay=CPS Anzeige
+#module.cpsdisplay.desc=Zeigt deine Clicks Per Sekunde.
+
+module.armorhud=Rüstungs HUD
+#module.armorhud.desc=Zeigt deine Rüstung und das Gegenstand in deiner Hand. 
+
+module.fireoverlay=Feuer Overlay
+#module.fireoverlay.desc=Deaktiviere das Feueroverlay in der ersten Person.
+
+module.chunkborders=Chunk Umrandungen
+#module.chunkborders.desc=Zeigt Umrandungen zwischen Chunks.
+
+module.fpscounter=FPS Anzeige
+#module.fpscounter.desc=Zeigt deine Frames Per Sekunde (FPS).
+
+module.fullbright=Fullbright
+#module.fullbright.desc=Macht die Welt ganz hell.
+module.fullbright.setting.gamma=Gamma
+
+module.hitboxes=Hitboxes
+#module.hitboxes.desc=Zeigt die Hitbox von Entities.
+
+module.pingdisplay=Ping Anzeige
+#module.pingdisplay.desc=Zeigt dein Ping wenn du in einem Server bist.
+
+module.quickdrop=Schnell Drop
+#module.quickdrop.desc=Werfe ein Item weg indem man ein Button im Touchscreen Modus antippt.
+module.quickdrop.setting.javadrop=Halte zum Droppen (Java)
+
+module.quickperspective=Schnelle Perspektive
+#module.quickperspective.desc=Ändere deine Perspective schneller.
+module.quickperspective.setting.snaplook=Halte Snap Look 
+#module.quickperspective.setting.snaplook.desc=Schau hinter dir wenn du das Button haltest.
+
+module.speeddisplay=Speed Anzeige
+#module.speeddisplay.desc=Zeigt deine Geschwindigkeit.
+
+module.zoom=Zoom
+#module.zoom.desc=Zoomt deine Camera in die Ferne.
+module.zoom.setting.modifier=Zoom Modifikator
+
+module.commandshortcuts=Befehl Verknüpfungen
+#module.commandshortcuts.desc=Verknüpfungen für Befehle wie /gms, /gmc, etc.
+
+module.command_hotkey=Befehl Hotkey
+module.command_hotkey.setting.command=Befehl
+
+module.environment=Umgebung
+module.environment.setting.editing_time=Bearbeite Zeit
+module.environment.setting.time=Bearbeite Zeit
+
+module.coordinates_display=Koordinaten
+
+module.text_hotkey=Text Hotkey
+
+# Settings
+settings.keyBind=Tasten Bind
+settings.actionBind=Aktion Bind
+settings.red=Rot
+settings.green=Grün
+settings.blue=Blau
+
+setting.touchscreenMode=Touchscreen Modus
+setting.disableVSync=Deaktiviere VSync (Neustart gebraucht)
