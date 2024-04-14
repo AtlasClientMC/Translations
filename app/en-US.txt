@@ -1,0 +1,90 @@
+lang.name=English
+
+# Generic
+generic.delete=Delete
+generic.save=Save
+generic.text_size=Text Size
+generic.rounding=Roundness
+generic.opacity=Opacity
+generic.border=Border
+generic.scale=Scale
+generic.precision=Precision
+generic.text=Text
+
+# Menu
+menu.profiles=Profiles
+menu.modules=Modules
+menu.options=Options
+menu.editHUD=Edit HUD
+menu.back=Back
+menu.add_profile=Add profile
+menu.search_modules=Search modules
+
+# Modules
+module.autosprint=Auto Sprint
+#module.autosprint.desc=Automatically sprint when walking.
+
+module.cpsdisplay=CPS Display
+#module.cpsdisplay.desc=Displays your clicks per second.
+
+module.armorhud=Armor HUD
+#module.armorhud.desc=Shows your armor and the item in your hand in the HUD.
+
+module.fireoverlay=Fire Overlay
+#module.fireoverlay.desc=Disable the fire overlay in first person.
+
+module.chunkborders=Chunk Borders
+#module.chunkborders.desc=Shows borders between chunks.
+
+module.fpscounter=FPS Display
+#module.fpscounter.desc=Shows your frames per second (FPS) on the screen.
+
+module.fullbright=Fullbright
+#module.fullbright.desc=Makes the world fully bright.
+module.fullbright.setting.gamma=Gamma
+
+module.hitboxes=Hitboxes
+#module.hitboxes.desc=Shows entitys' hitboxes.
+
+module.pingdisplay=Ping Display
+#module.pingdisplay.desc=Shows your ping when connected to a server.
+
+module.quickdrop=Quick Drop
+#module.quickdrop.desc=Quickly drop an item when pressing a button in touchscreen mode.
+module.quickdrop.setting.javadrop=Hold to Drop (Java)
+
+module.quickperspective=Quick Perspective
+#module.quickperspective.desc=Quickly change perspective in touchscreen devices.
+module.quickperspective.setting.snaplook=Hold Snap Look
+#module.quickperspective.setting.snaplook.desc=Looks behind you whenever you hold the button.
+
+module.speeddisplay=Speed Display
+#module.speeddisplay.desc=Shows your speed.
+
+module.zoom=Zoom
+#module.zoom.desc=Makes the camera zoom into the distance.
+module.zoom.setting.modifier=Zoom Modifier
+
+module.commandshortcuts=Command Shortcuts
+#module.commandshortcuts.desc=Shortcuts for commands like /gms, /gmc, etc.
+
+module.command_hotkey=Command Hotkey
+module.command_hotkey.setting.command=Command
+
+module.environment=Environment
+module.environment.setting.editing_time=Edit Time
+module.environment.setting.time=Edit Time
+
+module.coordinates_display=Coordinates
+
+module.text_hotkey=Text Hotkey
+
+# Settings
+settings.keyBind=Key Bind
+settings.actionBind=Action Bind
+settings.red=Red
+settings.green=Green
+settings.blue=Blue
+
+setting.touchscreenMode=Touchscreen Mode
+setting.disableVSync=Disable VSync (Restart required)
