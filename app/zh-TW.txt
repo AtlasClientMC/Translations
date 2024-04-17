@@ -1,0 +1,91 @@
+lang.name=Chinese Traditional
+
+# Generic
+generic.delete=刪除
+generic.save=保存
+generic.text_size=文本尺寸
+generic.rounding=圓角度
+generic.opacity=透明度
+generic.border=邊框
+generic.scale=尺寸
+generic.precision=精確度
+generic.text=文本
+
+# Menu
+menu.profiles=配置
+menu.modules=模塊
+menu.options=設置
+menu.editHUD=編輯HUD
+menu.back=返回
+menu.add_profile=新建配置
+menu.search_modules=搜索模塊
+
+# Modules
+module.autosprint=強制疾跑
+module.autosprint.desc=當你行走時自動疾跑
+
+module.cpsdisplay=CPS顯示
+module.cpsdisplay.desc=顯示你的CPS(每秒點擊次數)
+
+module.armorhud=盔甲顯示
+module.armorhud.desc=顯示你穿的盔甲和手持物品
+
+module.fireoverlay=去除火焰
+module.fireoverlay.desc=去除第一人稱的火焰遮擋
+
+module.chunkborders=方塊輪廓框
+module.chunkborders.desc=在選中的方塊上顯示邊框
+
+module.fpscounter=FPS顯示
+module.fpscounter.desc=實時顯示你的遊戲內FPS
+
+module.fullbright=夜視
+module.fullbright.desc=讓你周圍的環境更加明亮
+module.fullbright.setting.gamma=伽馬值(亮度)
+
+module.hitboxes=碰撞箱
+module.hitboxes.desc=顯示示實體的碰撞箱
+
+module.pingdisplay=延遲顯示
+module.pingdisplay.desc=顯示你與服務器之間的延遲
+
+module.quickdrop=快捷丟棄
+module.quickdrop.desc=按下按鈕快速丟棄你手中的物品
+module.quickdrop.setting.javadrop=長按按鈕丟棄(仿Java)
+
+module.quickperspective=快速切換視角
+#module.quickperspective.desc=按下按鈕快速切換視角
+module.quickperspective.setting.snaplook=長按後視
+#module.quickperspective.setting.snaplook.desc=當你長按按鈕時觸發後視
+
+module.speeddisplay=速度顯示
+module.speeddisplay.desc=顯示你的移動速度
+
+module.zoom=望遠鏡
+module.zoom.desc=按下按鈕放大以觀察遠處的物體
+module.zoom.setting.modifier=放大距離
+
+module.commandshortcuts=快捷指令
+#module.commandshortcuts.desc=簡化的指令，比如 /gms、/gmc等等
+
+module.command_hotkey=指令熱鍵
+module.command_hotkey.setting.command=指令
+
+module.environment=環境改變
+module.environment.setting.editing_time=編輯時間
+module.environment.setting.time=編輯時間
+
+module.coordinates_display=座標顯示
+
+module.text_hotkey=文本熱鍵
+
+# Settings
+settings.keyBind=按鍵綁定
+settings.actionBind=控制方式綁定
+settings.red=紅
+settings.green=綠
+settings.blue=藍
+
+# Settings
+setting.touchscreenMode=觸摸屏模式
+setting.disableVSync=禁用垂直同步 (開啟後需要重啟遊戲激活)
