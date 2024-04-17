@@ -1,90 +1,90 @@
-lang.name=English
+lang.name=简体中文 (Chinese Simplified)
 
 # Generic
-generic.delete=Delete
-generic.save=Save
-generic.text_size=Text Size
-generic.rounding=Roundness
-generic.opacity=Opacity
-generic.border=Border
-generic.scale=Scale
-generic.precision=Precision
-generic.text=Text
+generic.delete=删除
+generic.save=保存
+generic.text_size=文字大小
+generic.rounding=圆角
+generic.opacity=透明度
+generic.border=边框
+generic.scale=大小
+generic.precision=精度
+generic.text=文本
 
 # Menu
-menu.profiles=Profiles
-menu.modules=Modules
-menu.options=Options
-menu.editHUD=Edit HUD
-menu.back=Back
-menu.add_profile=Add profile
-menu.search_modules=Search modules
+menu.profiles=配置文件
+menu.modules=模块
+menu.options=选项
+menu.editHUD=编辑 HUD
+menu.back=返回
+menu.add_profile=添加配置文件
+menu.search_modules=搜索模块
 
 # Modules
-module.autosprint=Auto Sprint
-#module.autosprint.desc=Automatically sprint when walking.
+module.autosprint=自动疾跑
+#module.autosprint.desc=行走时自动疾跑.
 
-module.cpsdisplay=CPS Display
-#module.cpsdisplay.desc=Displays your clicks per second.
+module.cpsdisplay=CPS 显示
+#module.cpsdisplay.desc=显示每秒点击数.
 
-module.armorhud=Armor HUD
-#module.armorhud.desc=Shows your armor and the item in your hand in the HUD.
+module.armorhud=盔甲 HUD
+#module.armorhud.desc=在 HUD 中显示您的盔甲和手持物品.
 
-module.fireoverlay=Fire Overlay
-#module.fireoverlay.desc=Disable the fire overlay in first person.
+module.fireoverlay=火焰叠加
+#module.fireoverlay.desc=在第一人称视角中禁用火焰叠加.
 
-module.chunkborders=Chunk Borders
-#module.chunkborders.desc=Shows borders between chunks.
+module.chunkborders=区块边界
+#module.chunkborders.desc=显示区块之间的边界.
 
-module.fpscounter=FPS Display
-#module.fpscounter.desc=Shows your frames per second (FPS) on the screen.
+module.fpscounter=FPS 显示
+#module.fpscounter.desc=在屏幕上显示每秒帧数 (FPS).
 
-module.fullbright=Fullbright
-#module.fullbright.desc=Makes the world fully bright.
-module.fullbright.setting.gamma=Gamma
+module.fullbright=夜视
+#module.fullbright.desc=让你拥有夜视效果.
+module.fullbright.setting.gamma=Gamma值
 
-module.hitboxes=Hitboxes
-#module.hitboxes.desc=Shows entitys' hitboxes.
+module.hitboxes=碰撞箱
+#module.hitboxes.desc=显示实体的碰撞箱
 
-module.pingdisplay=Ping Display
-#module.pingdisplay.desc=Shows your ping when connected to a server.
+module.pingdisplay=延迟显示
+#module.pingdisplay.desc=连接到服务器时显示您的延迟.
 
-module.quickdrop=Quick Drop
-#module.quickdrop.desc=Quickly drop an item when pressing a button in touchscreen mode.
-module.quickdrop.setting.javadrop=Hold to Drop (Java)
+module.quickdrop=快速丢弃
+#module.quickdrop.desc=在触摸屏模式下按下按钮时快速丢弃物品.
+module.quickdrop.setting.javadrop=按住以丢弃 (Java)
 
-module.quickperspective=Quick Perspective
-#module.quickperspective.desc=Quickly change perspective in touchscreen devices.
-module.quickperspective.setting.snaplook=Hold Snap Look
-#module.quickperspective.setting.snaplook.desc=Looks behind you whenever you hold the button.
+module.quickperspective=快速视角
+#module.quickperspective.desc=在触摸设备上快速更改视角.
+module.quickperspective.setting.snaplook=按住快速看向
+#module.quickperspective.setting.snaplook.desc=每当您按住按钮时向后看.
 
-module.speeddisplay=Speed Display
-#module.speeddisplay.desc=Shows your speed.
+module.speeddisplay=速度显示
+#module.speeddisplay.desc=显示您的速度.
 
-module.zoom=Zoom
-#module.zoom.desc=Makes the camera zoom into the distance.
-module.zoom.setting.modifier=Zoom Modifier
+module.zoom=Zoom 缩放
+#module.zoom.desc=使摄像机放大到远处.
+module.zoom.setting.modifier=缩放大小修改
 
-module.commandshortcuts=Command Shortcuts
-#module.commandshortcuts.desc=Shortcuts for commands like /gms, /gmc, etc.
+module.commandshortcuts=命令快捷方式
+#module.commandshortcuts.desc=命令的快捷方式，如 /gms、/gmc 等.
 
-module.command_hotkey=Command Hotkey
-module.command_hotkey.setting.command=Command
+module.command_hotkey=命令快捷键
+module.command_hotkey.setting.command=命令
 
-module.environment=Environment
-module.environment.setting.editing_time=Edit Time
-module.environment.setting.time=Edit Time
+module.environment=环境修改
+module.environment.setting.editing_time=编辑时间
+module.environment.setting.time=编辑时间
 
-module.coordinates_display=Coordinates
+module.coordinates_display=坐标显示
 
-module.text_hotkey=Text Hotkey
+module.text_hotkey=文本快捷键
 
 # Settings
-settings.keyBind=Key Bind
-settings.actionBind=Action Bind
-settings.red=Red
-settings.green=Green
-settings.blue=Blue
+settings.keyBind=按键绑定
+settings.actionBind=动作绑定
+settings.red=红色
+settings.green=绿色
+settings.blue=蓝色
 
-setting.touchscreenMode=Touchscreen Mode
-setting.disableVSync=Disable VSync (Restart required)
+setting.touchscreenMode=触摸屏模式
+setting.disableVSync=禁用垂直同步 (需要重新启动)
