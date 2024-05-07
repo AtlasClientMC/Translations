@@ -33,8 +33,8 @@ module.armorhud.desc=显示你穿的盔甲和手持物品
 module.fireoverlay=去除火焰
 module.fireoverlay.desc=去除第一人称的火焰遮挡
 
-module.chunkborders=方块轮廓框
-module.chunkborders.desc=在选中的方块上显示边框
+module.chunkborders=区块显示
+module.chunkborders.desc=显示区块之间的边框
 
 module.fpscounter=FPS显示
 module.fpscounter.desc=实时显示你的游戏内FPS
