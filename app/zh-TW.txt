@@ -1,4 +1,4 @@
-lang.name=繁體中文(Chinese Traditional)
+lang.name=繁體中文
 
 # Generic
 generic.delete=刪除
