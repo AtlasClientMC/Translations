@@ -1,0 +1,90 @@
+lang.name=Español
+
+# Generic
+generic.delete=Eliminar
+generic.save=Guardar
+generic.text_size=Tamaño del Texto
+generic.rounding=Redondez
+generic.opacity=Opacidad
+generic.border=Borde
+generic.scale=Escala
+generic.precision=Precisión
+generic.text=Texto
+
+# Menu
+menu.profiles=Perfiles
+menu.modules=Módulos
+menu.options=Opciones
+menu.editHUD=Editar HUD
+menu.back=Atrás
+menu.add_profile=Añadir Perfil
+menu.search_modules=Buscar Módulos
+
+# Modules
+module.autosprint=Auto Sprint
+#module.autosprint.desc=Corre automáticamente al caminar.
+
+module.cpsdisplay=Visualización de CPS
+#module.cpsdisplay.desc=Muestra tus CPS (Clics por Segundo).
+
+module.armorhud=HUD de Armadura
+#module.armorhud.desc=Muestra tu armadura y el objeto en tu mano en el HUD.
+
+module.fireoverlay=Superposición de Fuego
+#module.fireoverlay.desc=Deshabilita la superposición de fuego en primera persona.
+
+module.chunkborders=Límites de Chunk
+#module.chunkborders.desc=Muestra los bordes entre chunks.
+
+module.fpscounter=Visor de FPS
+#module.fpscounter.desc=Muestra tus cuadros por segundo (FPS) en la pantalla.
+
+module.fullbright=Iluminación Completa
+#module.fullbright.desc=Hace que el mundo esté completamente iluminado.
+module.fullbright.setting.gamma=Gamma
+
+module.hitboxes=Visor de Ping
+#module.hitboxes.desc=Muestra las hitboxes de las entidades.
+
+module.pingdisplay=Ping Display
+#module.pingdisplay.desc=Muestra tu ping cuando estás conectado a un servidor.
+
+module.quickdrop=Descarte Rápido
+#module.quickdrop.desc=Suelta rápidamente un objeto al presionar un botón en el modo de pantalla táctil.
+module.quickdrop.setting.javadrop=Mantener para Soltar (Java)
+
+module.quickperspective=Perspectiva Rápida
+#module.quickperspective.desc=Cambia rápidamente la perspectiva en dispositivos con pantalla táctil.
+module.quickperspective.setting.snaplook=Mantener para Mirar
+#module.quickperspective.setting.snaplook.desc=Mira hacia atrás cada vez que mantienes presionado el botón.
+
+module.speeddisplay=Visor de Velocidad
+#module.speeddisplay.desc=Muestra tu velocidad.
+
+module.zoom=Zoom
+#module.zoom.desc=Hace que la cámara se acerque a la distancia.
+module.zoom.setting.modifier=Modificador de Zoom
+
+module.commandshortcuts=Atajos de Comandos
+#module.commandshortcuts.desc=Atajos para comandos como /gms, /gmc, etc.
+
+module.command_hotkey=Tecla Rápida de Comando
+module.command_hotkey.setting.command=Comando
+
+module.environment=Entorno
+module.environment.setting.editing_time=Tiempo de Edición
+module.environment.setting.time=Hora
+
+module.coordinates_display=Coordenadas del Jugador
+
+module.text_hotkey=Tecla Rápida de Texto
+
+# Settings
+settings.keyBind=Asignación de Tecla
+settings.actionBind=Asignación de Acción
+settings.red=Rojo
+settings.green=Verde
+settings.blue=Azul
+
+setting.touchscreenMode=Modo Pantalla Táctil
+setting.disableVSync=Deshabilitar VSync (Requiere Reinicio)
