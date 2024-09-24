@@ -1,0 +1,90 @@
+lang.name=繁體中文 (Chinese Traditional)
+
+# Generic
+generic.delete=刪除
+generic.save=保存
+generic.text_size=文字大小
+generic.rounding=圓角
+generic.opacity=透明度
+generic.border=邊框
+generic.scale=大小
+generic.precision=精度
+generic.text=文本
+
+# Menu
+menu.profiles=配置文件
+menu.modules=模塊
+menu.options=選項
+menu.editHUD=編輯 HUD
+menu.back=返回
+menu.add_profile=添加配置文件
+menu.search_modules=搜索模塊
+
+# Modules
+module.autosprint=自動疾跑
+#module.autosprint.desc=行走時自動疾跑.
+
+module.cpsdisplay=CPS 顯示
+#module.cpsdisplay.desc=顯示每秒點擊數.
+
+module.armorhud=盔甲 HUD
+#module.armorhud.desc=在 HUD 中顯示您的盔甲和手持物品.
+
+module.fireoverlay=火焰疊加
+#module.fireoverlay.desc=在第一人稱視角中禁用火焰疊加.
+
+module.chunkborders=區塊邊界
+#module.chunkborders.desc=顯示區塊之間的邊界.
+
+module.fpscounter=FPS 顯示
+#module.fpscounter.desc=在屏幕上顯示每秒幀數 (FPS).
+
+module.fullbright=夜視
+#module.fullbright.desc=讓你擁有夜視效果.
+module.fullbright.setting.gamma=Gamma值
+
+module.hitboxes=碰撞箱
+#module.hitboxes.desc=顯示實體的碰撞箱
+
+module.pingdisplay=延遲顯示
+#module.pingdisplay.desc=連接到服務器時顯示您的延遲.
+
+module.quickdrop=快速丟棄
+#module.quickdrop.desc=在觸摸屏模式下按下按鈕時快速丟棄物品.
+module.quickdrop.setting.javadrop=按住以丟棄 (Java)
+
+module.quickperspective=快速視角
+#module.quickperspective.desc=在觸摸設備上快速更改視角.
+module.quickperspective.setting.snaplook=按住快速看向
+#module.quickperspective.setting.snaplook.desc=每當您按住按鈕時向後看.
+
+module.speeddisplay=速度顯示
+#module.speeddisplay.desc=顯示您的速度.
+
+module.zoom=Zoom 縮放
+#module.zoom.desc=使攝像機放大到遠處.
+module.zoom.setting.modifier=縮放大小修改
+
+module.commandshortcuts=命令快捷方式
+#module.commandshortcuts.desc=命令的快捷方式，如 /gms、/gmc 等.
+
+module.command_hotkey=命令快捷鍵
+module.command_hotkey.setting.command=命令
+
+module.environment=環境修改
+module.environment.setting.editing_time=編輯時間
+module.environment.setting.time=編輯時間
+
+module.coordinates_display=坐標顯示
+
+module.text_hotkey=文本快捷鍵
+
+# Settings
+settings.keyBind=按鍵綁定
+settings.actionBind=動作綁定
+settings.red=紅色
+settings.green=綠色
+settings.blue=藍色
+
+setting.touchscreenMode=觸摸屏模式
+setting.disableVSync=禁用垂直同步 (需要重新啟動)
